@@ -1,0 +1,40 @@
+Responsive Design:
+
+-Set your margin to auto
+-Set your width to max width
+-CHanging properties from set values to
+autocorrecting allows you to implement responsive design
+
+Media Query-allows you to set CSS styles
+that activate when the browser is a certain
+width
+   example:
+   @media (max-width: 500px) {
+    body {
+      background:red
+    }
+   }
+
+
+
+List:
+-Go over http://www.456bereastreet.com/lab/developing_with_web_standards/csslayout/2-col/
+-Create Structure
+-Add text
+-Add Create Functionality
+-Add Display Functionality
+
+
+Stuff to do:
+7.35-7.50 Create Database ###
+7.45-8.00 Read all items ###
+
+8.00-8.15 Restful Routes ###
+8.15-8.30 Review DAniel ###
+
+8.30-8.45 Create migration/routes
+8.45-9.00 Rewrite Dash Notes
+
+9.00-9.15 Dash Stuff
+9.15-9.30 Watch video
+

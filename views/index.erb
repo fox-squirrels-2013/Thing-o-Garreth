@@ -1,16 +1,25 @@
-  <form action="/" method="post">
-    <input type ="text" name="name"> 
-    <input type ="text" name="content"> 
-    <input type="submit" value="Submit">  
-  </form>  
+<html>
+<head>
 
-Habits 
-So How do we form good habits? 
-   Habits are formed by a focus on two things MicroQuotas and Macrogoals. Simply put creating small daily goals while still focusing on the macro. 
+</head>
+<body>
+  <div id = "left_panel_1">
+    <h1> So How do we form good habits? </h1>
+    <img src="http://i.imgur.com/crmJkiN.png">
+  </div>
+  <div id ="form">
+    <h3> What habit do you want to start today?</h3>
+    <form action="/habit" method="post">
+      <input type ="text" name="name" placeholder="Habit">
+      <input type ="text" name="content" placeholder="add description...">
+      <input type = "file" name="img" accept="image/gif, image/jpeg, image/png">
+      <input type="submit" value="Add Habit">
+    </form>
 
-The First step is find a small goal. Even as small as flossing. Stanford Psychologist BJ Foggs made this daily routine even smaller. 
 
-    "For me, cracking the code on flossing was to put the floss right by the toothbrush, and to commit to myself that I would floss one tooth — only one tooth — every time after I brushed." 
+</div>
+  </div>
+</body>
 
 
-
+</html>

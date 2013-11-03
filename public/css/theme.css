@@ -1,0 +1,35 @@
+body {
+  background-color: #f6f3e5;
+}
+
+#banner {
+  text-align: center;
+  background-size: cover;
+  background: url("http://i.imgur.com/Dr2GIUe.png");
+  margin-top: -20px;
+  padding: 100px;
+  width:100%;
+  height: auto;
+
+}
+#left_panel_1 {
+  position:relative;
+  width: 100%;
+  top: -10px;
+}
+
+
+#form {
+  position: relative;
+  top: 600px;
+}
+ul {
+  padding: 10px;
+  width: 100%;
+  margin: 0 auto;
+  background: #4581F7;
+}
+input{
+  padding: 10px;
+  margin: 10px;
+}
